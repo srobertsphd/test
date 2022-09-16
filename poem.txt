@@ -4,5 +4,6 @@ Purple
 Pink
 Red
 Blue
+Green
 
 These are the collors of my rainbow
